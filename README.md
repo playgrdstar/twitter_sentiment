@@ -1,3 +1,3 @@
-# Fetching data from Twitter
+# Sentiment scoring tweets from Twitter
 
-Just a super simple script to get data from Twitter.
+Just a super simple script for sentiment scoring of tweets.
